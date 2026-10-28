@@ -3,7 +3,7 @@
     "Author": "Miw360",
     "Name": "Relic Exporter",
     "InternalName": "RelicExporter",
-    "AssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.1.2.0",
     "Punchline": "Exports relic weapon material counts.",
     "Description": "Counts relic weapon materials on the character and exports them to an external destination. Needs to be paired with an external destination to track the character's progress.",
     "ApplicableVersion": "any",
@@ -19,9 +19,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1793116531,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.1.0/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.1.0/latest.zip"
+    "LastUpdate": 1793199127,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.2.0/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.1.2.0/latest.zip"
   }
 ]
