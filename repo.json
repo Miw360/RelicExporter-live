@@ -3,7 +3,7 @@
     "Author": "Miw360",
     "Name": "Aether Exporter",
     "InternalName": "RelicExporter",
-    "AssemblyVersion": "0.6.2.0",
+    "AssemblyVersion": "0.6.3.0",
     "Punchline": "Exports relic material counts and your inventories to your own profile.",
     "Description": "Reads relic weapon materials and, when you enable it on the site, your whole inventory, armoury chest, chocobo saddlebag, retainers (with market listings), Glamour Dresser and Armoire, and sends them to your own profile on an external site after you pair the character. If you turn on \"Allow moves from the site\" for a character, it also moves items you move on the site, one at a time, opening retainers at a summoning bell when needed; it never sells, discards, trades or uses anything.",
     "ApplicableVersion": "any",
@@ -20,9 +20,9 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 0,
-    "LastUpdate": 1794402259,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.2.0/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.2.0/latest.zip"
+    "LastUpdate": 1794405832,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.3.0/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Miw360/RelicExporter-live/main/RelicExporter/0.6.3.0/latest.zip"
   }
 ]
